@@ -1,4 +1,4 @@
-# Trabalhando com Strings
+# Trabalhando com Strings em RUBY
 	
 ## Sendo uma string
 
