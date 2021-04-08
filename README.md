@@ -1,4 +1,4 @@
-# Trabalhando com Strings em RUBY
+# Trabalhando com Strings em RUBY ![ruby img](https://github.com/SayansED/ruby_strings/blob/main/Imagens/ruby48px.png)
 	
 ## Sendo uma string
 
