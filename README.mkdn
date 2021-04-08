@@ -150,3 +150,7 @@ Você pode, também, contar a ocorrência de determinada palavra ou expressão:
 
 	num = “Tamanho da String”
 	puts num.count(“a”) # 3
+	
+
+## Fonte desenvolvedor
+https://github.com/albertoleal/prazer--ruby
